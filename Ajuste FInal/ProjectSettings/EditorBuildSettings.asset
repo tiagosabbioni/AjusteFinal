@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: a4549b8ae0532654e9866b4b5657d1ba
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutsceneInicial(Armand).unity
+    guid: 07a46586ed6874a449a52b4d943349f9
+  - enabled: 1
+    path: "Assets/Scenes/Cutscenes/CutscenePrimeiraMiss\xE3o.unity"
+    guid: 1ab2d85f4ede18b4893c308e6d4a65e3
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 53bfe6e423da0da4f906a387b6ffe776
+  - enabled: 1
+    path: Assets/Scenes/Fase1.unity
+    guid: 6720a7e9cc8839d408fe6a0fc12c99e2
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutscenePassagemDeTempo.unity
+    guid: ca3ae60984f86624c9fd32ffe1cd6417
+  - enabled: 1
+    path: "Assets/Scenes/Cutscenes/CutsceneSegundaMiss\xE3o.unity"
+    guid: 5970f9ad58d750346b9a7f70fa7c4117
+  - enabled: 1
+    path: Assets/Scenes/Fase2.unity
+    guid: 092df7868c5ffdd4080c43585a48a3a3
+  - enabled: 1
+    path: "Assets/Scenes/Cutscenes/CutsceneTerceiraMiss\xE3o.unity"
+    guid: 06cbf4001c9c0f34a86d47c33e486c4f
+  - enabled: 1
+    path: Assets/Scenes/Fase3.unity
+    guid: f9c0f093ac3a5864d92ce863f48de621
+  - enabled: 1
+    path: "Assets/Scenes/Cutscenes/CutsceneQuartaMiss\xE3o.unity"
+    guid: b9d6c37c93b41bc498b0dd3b4d9f272d
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/CutsceneFinal.unity
+    guid: fe1c2471e45fec744b2ee2c01f2964a1
+  - enabled: 1
+    path: "Assets/Scenes/Cr\xE9ditos.unity"
+    guid: a0ebca719fa784841af94cd3bff28903
+  - enabled: 1
+    path: Assets/Scenes/CenaFinalPlayTest.unity
+    guid: 7b76f124983ee854189843c140f1c705
+  m_configObjects: {}
